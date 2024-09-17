@@ -5,16 +5,17 @@
 **Third Eye for the Blind** is a capstone project aimed at providing assistance to visually impaired individuals by using advanced deep learning, computer vision, and voice recognition technologies. The system captures the user's environment through a camera, processes the visual data using real-time object detection and face recognition, and provides audio feedback to the user via a voice assistant named Nancy. This solution empowers visually impaired individuals by enhancing their situational awareness and independence.
 
 ## Guided By
+Under the Guidance of:
 
+  **Prof. Bolem Sai Chandana**
+ 
 Project developed by:
 
 - **Jinka Chandra Kiran** (20BCI7045)
 - **Kokkula Lokesh** (20BCR7142)
 - **Tatigunta Bhaviteja Reddy** (20BCI7053)
 
-**Under the Guidance of:**
 
-- **Prof. Bolem Sai Chandana**
 
 ## Features
 
