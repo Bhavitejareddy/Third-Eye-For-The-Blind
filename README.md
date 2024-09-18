@@ -107,5 +107,5 @@ For any inquiries or support, contact the project maintainers:
 - **Kokkula Lokesh** (lokesh.20bcr7142@vitap.ac.in)
 - **Tatigunta Bhaviteja Reddy** (bhaviteja.20bci7053@vitap.ac.in)
 ## For More Details 
-[Download the PDF](./file:///C:/Users/bhavi%20teja/Desktop/Materials/Project/THIRD_EYE%20FOR%20THE%20BLIND%20REPORT.pdf)
+[Download the PDF](./file[:///C:/Users/bhavi%20teja/Desktop/Materials/Project/THIRD_EYE%20FOR%20THE%20BLIND%20REPORT.pdf](https://github.com/Bhavitejareddy/Third-Eye-For-The-Blind/blob/main/THIRD_EYE%20FOR%20THE%20BLIND%20REPORT.pdf))
 
