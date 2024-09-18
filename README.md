@@ -107,5 +107,5 @@ For any inquiries or support, contact the project maintainers:
 - **Kokkula Lokesh** (lokesh.20bcr7142@vitap.ac.in)
 - **Tatigunta Bhaviteja Reddy** (bhaviteja.20bci7053@vitap.ac.in)
 ## For More Details 
-[Some title here](https://drive.google.com/file/d/1akwVFR-1NcGCSgvYOOBSV8feVQkH2oFc/view?usp=sharing)
+[Download the PDF here](https://drive.google.com/file/d/1akwVFR-1NcGCSgvYOOBSV8feVQkH2oFc/view?usp=sharing)
 
