@@ -110,8 +110,16 @@ For any inquiries or support, contact the project maintainers:
 [Download the PDF here](https://drive.google.com/file/d/1akwVFR-1NcGCSgvYOOBSV8feVQkH2oFc/view?usp=sharing)
 
 ## Achievements:
-<h3>FALL SEM 2022-2023 : Second Prize Among 500 Engineering Clinics Project</h3>
+<h3>FALL SEM 2022-2023 : Second Prize Among 500 Engineering Clinics </h3>
 
 ![image](https://github.com/user-attachments/assets/0bd7b6e4-aca1-40d8-90f6-ca632f1a6110)
+
+<h3>WIN SEM 2022-2023 : The Most Socially Relevant Project in  Engineering Clinics </h3>
+
+
+![image](https://github.com/user-attachments/assets/c391f543-2c31-4b7f-83e9-eed18059a685)
+
+
+
 
 
