@@ -14,8 +14,11 @@ Project developed by:
 - **Jinka Chandra Kiran** (20BCI7045)
 - **Kokkula Lokesh** (20BCR7142)
 - **Tatigunta Bhaviteja Reddy** (20BCI7053)
+- **Arab Shahansha**(20BCI7039)
 
-
+![image](https://github.com/user-attachments/assets/938300eb-6173-42c0-ad4f-04516a16f541)
+![image](https://github.com/user-attachments/assets/883877e8-39f0-44bf-b245-429fa115acfd)
+![image](https://github.com/user-attachments/assets/f6578549-e4e6-4bc7-ac00-2e9c93090f74)
 
 ## Features
 
