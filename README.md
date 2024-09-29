@@ -47,6 +47,8 @@ The project integrates hardware and software to create a robust and user-friendl
 2. **YOLO & OpenCV:** Detects objects and recognizes faces within the captured images.
 3. **VOSK & PyAudio:** Converts user commands into text and generates auditory feedback.
 4. **Nancy (Voice Assistant):** Provides a seamless interaction between the user and the environment through voice communication.
+![image](https://github.com/user-attachments/assets/3618fa60-86ae-4166-b725-e2dd2af4d8dd)
+
 
 ## Setup Instructions
 
