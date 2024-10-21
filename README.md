@@ -9,7 +9,7 @@ Under the Guidance of:
 
   **Prof. Bolem Sai Chandana**
  
-Project developed by:
+Project Developed by:
 
 - **Jinka Chandra Kiran** (20BCI7045)
 - **Kokkula Lokesh** (20BCR7142)
